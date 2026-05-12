@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 古今名著小站</title>
+        <link>https://vanvj00001.github.io/vanbook/posts/</link>
+        <description>所有文章 | 古今名著小站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 12 May 2026 22:00:00 &#43;0800</lastBuildDate><atom:link href="https://vanvj00001.github.io/vanbook/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>欧洲名著</title>
+    <link>https://vanvj00001.github.io/vanbook/posts/%E6%AC%A7%E6%B4%B2%E5%90%8D%E8%91%97/</link>
+    <pubDate>Tue, 12 May 2026 22:00:00 &#43;0800</pubDate>
+    <author>老梵</author>
+    <guid>https://vanvj00001.github.io/vanbook/posts/%E6%AC%A7%E6%B4%B2%E5%90%8D%E8%91%97/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>中国名著</title>
+    <link>https://vanvj00001.github.io/vanbook/posts/%E4%B8%AD%E5%9B%BD%E5%90%8D%E8%91%97/</link>
+    <pubDate>Tue, 12 May 2026 21:00:00 &#43;0800</pubDate>
+    <author>老梵</author>
+    <guid>https://vanvj00001.github.io/vanbook/posts/%E4%B8%AD%E5%9B%BD%E5%90%8D%E8%91%97/</guid>
+    <description><![CDATA[<p> </p>]]></description>
+</item>
+</channel>
+</rss>
